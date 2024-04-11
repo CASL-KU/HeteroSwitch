@@ -17,13 +17,12 @@ For the images, we use 12 non-overlapping [ImageNet (Deng et al., 2009)](https:/
 Access the dataset through Kaggle at the following URLs:
 - [GalaxyS22](https://www.kaggle.com/datasets/kimgyudong/heteroswitch-galaxys22)
 - [GalaxyS9](https://www.kaggle.com/datasets/kimgyudong/heteroswitch-galaxys9)
-- [GalaxyS6](https://www.kaggle.com/datasets/kimgyudong/heteroswitch-galaxys6)
+- [GalaxyS6, Nexus5X](www.kaggle.com/datasets/kimgyudong/heteroswitch-nexus5x-galaxys6)
 - [VELVET](https://www.kaggle.com/datasets/kimgyudong/heteroswitch-velvet)
 - [G7](https://www.kaggle.com/datasets/kimgyudong/heteroswitch-g7)
 - [G4](https://www.kaggle.com/datasets/kimgyudong/heteroswitch-g4)
 - [Pixel 5](https://www.kaggle.com/datasets/kimgyudong/heteroswitch-pixel5)
 - [Pixel 2](https://www.kaggle.com/datasets/kimgyudong/heteroswitch-pixel2)
-- [Nexus5X](https://www.kaggle.com/datasets/kimgyudong/heteroswitch-nexus5x)
 
 ### Citation
 Please cite our work using the following Bibtex entry:
